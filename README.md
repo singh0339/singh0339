@@ -1,7 +1,26 @@
-S Spandana Singh
+# Hi, I'm Spandana Singh 👋
 
-First-year Engineering student | Learning C Programming | Building projects one step at a time
+I'm a first-year engineering student who is learning programming and building projects to improve my skills.
 
-📌 Pinned Repositories:
+## 🌱 Currently Learning
 
-⭐ Student Grade Management System
+- C Programming
+- Git & GitHub
+- Problem Solving
+
+## 📂 Projects
+
+- Student Grade Management System (C)
+
+## 🎯 Goals
+
+- Build more C projects
+- Learn Data Structures
+- Improve problem-solving skills
+- Upload projects consistently on GitHub
+
+## 📫 Connect with me
+
+GitHub: https://github.com/singh0339
+
+Thanks for visiting my profile! 😊
